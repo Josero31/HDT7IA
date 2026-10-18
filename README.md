@@ -78,6 +78,8 @@ Ver el Agent Card: `curl http://127.0.0.1:9999/.well-known/agent-card.json`
 
 ### Preguntas sugeridas para el video
 
+Video demostrativo: [Ver en YouTube](https://youtu.be/ZND3n1aYuAA)
+
 1. `¿Cuánto cuesta un salto tándem y qué incluye?` → FAQs (`consultar_faqs` en el log MCP)
 2. `¿Es seguro saltar el próximo sábado?` → Clima + Seguridad (`consultar_clima` / `evaluar_fecha`)
 3. `Agéndame ese día a las 08:30, soy Ana López, tel 5555-1234` → Agenda (`consultar_horarios`, `agendar_cita`); demuestra que recuerda el contexto
